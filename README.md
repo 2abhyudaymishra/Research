@@ -17,3 +17,9 @@ Study materials and notes.
 Must-know patterns with README + Java demos:
 
 - [`system-design/`](system-design/README.md)
+
+## Design Patterns (OOP)
+
+Interview-important GoF-style patterns with README + Java demos:
+
+- [`design-patterns/`](design-patterns/README.md)
