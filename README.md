@@ -10,6 +10,7 @@ Study materials and notes.
 | CI/CD (GitHub Actions) | [`notes/cicd-study-notes.md`](notes/cicd-study-notes.md) |
 | Redis | [`notes/redis-study-notes.md`](notes/redis-study-notes.md) |
 | Docker | [`notes/docker-study-notes.md`](notes/docker-study-notes.md) |
+| Google Test & JUnit | [`notes/gtest-junit-interview-notes.md`](notes/gtest-junit-interview-notes.md) |
 
 ## System Design (Beginner)
 
