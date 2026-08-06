@@ -2,10 +2,16 @@
 
 Study materials and notes.
 
-## AWS Developer Associate
+## Notes
 
-Refined and expanded exam notes:
+| Topic | File |
+|---|---|
+| AWS Developer Associate | [`notes/aws-developer-associate-study-notes.md`](notes/aws-developer-associate-study-notes.md) |
+| CI/CD (GitHub Actions) | [`notes/cicd-study-notes.md`](notes/cicd-study-notes.md) |
+| Redis | [`notes/redis-study-notes.md`](notes/redis-study-notes.md) |
 
-- [`notes/aws-developer-associate-study-notes.md`](notes/aws-developer-associate-study-notes.md)
+## System Design (Beginner)
 
-Covers databases, caching, storage, messaging, compute, APIs, IAM/Cognito, monitoring, CI/CD, and a decision cheatsheet for DVA-C02.
+Must-know patterns with README + Java demos:
+
+- [`system-design/`](system-design/README.md)
