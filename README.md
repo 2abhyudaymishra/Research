@@ -2,14 +2,10 @@
 
 Study materials and notes.
 
-## System Design (Beginner)
-
-Must-know patterns with README + runnable Python demos:
-
-- [`system-design/`](system-design/README.md)
-
 ## AWS Developer Associate
 
-Refined exam notes (see separate branch/PR if not merged yet):
+Refined and expanded exam notes:
 
-- `notes/aws-developer-associate-study-notes.md`
+- [`notes/aws-developer-associate-study-notes.md`](notes/aws-developer-associate-study-notes.md)
+
+Covers databases, caching, storage, messaging, compute, APIs, IAM/Cognito, monitoring, CI/CD, and a decision cheatsheet for DVA-C02.
