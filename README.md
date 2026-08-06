@@ -9,6 +9,7 @@ Study materials and notes.
 | AWS Developer Associate | [`notes/aws-developer-associate-study-notes.md`](notes/aws-developer-associate-study-notes.md) |
 | CI/CD (GitHub Actions) | [`notes/cicd-study-notes.md`](notes/cicd-study-notes.md) |
 | Redis | [`notes/redis-study-notes.md`](notes/redis-study-notes.md) |
+| Docker | [`notes/docker-study-notes.md`](notes/docker-study-notes.md) |
 
 ## System Design (Beginner)
 
