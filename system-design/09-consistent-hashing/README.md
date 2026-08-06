@@ -34,5 +34,5 @@ Dynamo/Cassandra-style rings, CDN/cache clusters, some load balancers.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

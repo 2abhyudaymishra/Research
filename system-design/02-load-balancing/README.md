@@ -33,5 +33,5 @@ AWS ALB/NLB, Nginx, HAProxy, Cloudflare, Envoy.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

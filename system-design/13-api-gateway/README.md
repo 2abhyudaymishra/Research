@@ -39,5 +39,5 @@ Amazon API Gateway, Kong, Apigee, Nginx + Lua, Envoy + filters.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

@@ -33,5 +33,5 @@ Nginx, Envoy, HAProxy, AWS ALB, API Gateway (gateway ≈ smart reverse proxy).
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

@@ -30,5 +30,5 @@ Almost every web and mobile app is client–server. Understanding request/respon
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

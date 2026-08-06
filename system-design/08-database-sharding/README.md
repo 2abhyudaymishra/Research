@@ -36,5 +36,5 @@ DynamoDB partitions, MongoDB sharding, Vitess, Citus, manual app-level shards.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

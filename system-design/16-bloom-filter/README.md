@@ -32,5 +32,5 @@ Cassandra/Bigtable SSTable filters, browsers’ safe-browsing lists, Redis Bloom
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

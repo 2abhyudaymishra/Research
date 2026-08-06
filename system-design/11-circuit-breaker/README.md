@@ -32,5 +32,5 @@ Resilience4j, Hystrix (legacy), Envoy outliers, AWS Step Functions retries + cat
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

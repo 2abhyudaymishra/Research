@@ -36,5 +36,5 @@ RDS Multi-AZ + Read Replicas, Aurora Replicas, MongoDB replica sets, MySQL binlo
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

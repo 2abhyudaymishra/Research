@@ -31,5 +31,5 @@ SNS, Redis Pub/Sub, Kafka topics, Google Pub/Sub, EventBridge.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

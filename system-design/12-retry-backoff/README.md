@@ -27,5 +27,5 @@ AWS SDKs, HTTP clients, Step Functions retry policies, gRPC retry.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

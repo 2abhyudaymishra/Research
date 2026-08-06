@@ -33,5 +33,5 @@ Redis, Memcached, ElastiCache, CDN caches, HTTP Cache-Control.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

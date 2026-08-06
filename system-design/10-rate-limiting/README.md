@@ -33,5 +33,5 @@ API Gateway usage plans, Nginx limit_req, Cloudflare, Redis + token bucket.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

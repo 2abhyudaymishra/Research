@@ -34,5 +34,5 @@ Orders service writes to SQL; search/read API served from Elasticsearch/Redis pr
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

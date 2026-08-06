@@ -4,11 +4,11 @@ Hands-on introduction to **must-know system design patterns**.
 Each folder has:
 
 - `README.md` — what the pattern is, why it exists, when to use it
-- `demo.py` — small runnable Python example (stdlib only)
+- `Demo.java` — small runnable Java example (JDK only, no Maven/Gradle required)
 
 ```bash
 cd system-design/02-load-balancing
-python3 demo.py
+javac Demo.java && java Demo
 ```
 
 ## Patterns
@@ -35,7 +35,7 @@ python3 demo.py
 ## How to study
 
 1. Read the README (problem → idea → tradeoffs).
-2. Run `python3 demo.py`.
+2. Run `javac Demo.java && java Demo`.
 3. Change one parameter (servers, cache TTL, shard count) and re-run.
 4. Ask: *Where would Netflix / Uber / AWS use this?*
 
@@ -51,5 +51,5 @@ Most real systems combine several of these patterns.
 
 ## Requirements
 
-- Python 3.9+ recommended
-- No third-party packages
+- JDK 11+ (tested with JDK 21)
+- No third-party libraries

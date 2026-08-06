@@ -33,5 +33,5 @@ Stripe Idempotency-Key, SQS + dedupe, DynamoDB conditional writes.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```

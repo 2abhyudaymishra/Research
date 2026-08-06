@@ -35,5 +35,5 @@ SQS, RabbitMQ, Kafka (log), ActiveMQ, Redis streams.
 
 ## Run
 ```bash
-python3 demo.py
+javac Demo.java && java Demo
 ```
