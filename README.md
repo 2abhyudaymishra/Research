@@ -11,6 +11,7 @@ Study materials and notes.
 | Redis | [`notes/redis-study-notes.md`](notes/redis-study-notes.md) |
 | Docker | [`notes/docker-study-notes.md`](notes/docker-study-notes.md) |
 | Google Test & JUnit | [`notes/gtest-junit-interview-notes.md`](notes/gtest-junit-interview-notes.md) |
+| DSA SDE1 Tracker | [`notes/dsa-sde1-tracker.xlsx`](notes/dsa-sde1-tracker.xlsx) ([CSV](notes/dsa-sde1-tracker.csv), [guide](notes/dsa-sde1-tracker-README.md)) |
 
 ## System Design (Beginner)
 
